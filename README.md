@@ -25,4 +25,4 @@ Open index.html (for web-based versions) or run the game using [your development
 🏆 Implement leaderboard and multiplayer mode
 Feel free to contribute or suggest new features! 🎉
 
-🔗 Live Demo: 
+🔗 Live Demo:  https://harshada2112.github.io/whac-a-mole/
